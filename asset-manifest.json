@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rose932/Body-Segmentation.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Rose932/Body-Segmentation.git/static/js/main.2f8e2cc6.js",
+    "index.html": "/Rose932/Body-Segmentation.git/index.html",
+    "main.e6c13ad2.css.map": "/Rose932/Body-Segmentation.git/static/css/main.e6c13ad2.css.map",
+    "main.2f8e2cc6.js.map": "/Rose932/Body-Segmentation.git/static/js/main.2f8e2cc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2f8e2cc6.js"
+  ]
+}
